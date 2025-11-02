@@ -1,5 +1,7 @@
 # 🚨 AI Risk Hotspots: An Early Warning System
 
+**Live Demo:** [**https://ai-risk-hotspots.streamlit.app/**](https://ai-risk-hotspots.streamlit.app/)
+
 > A data-driven **Situational Awareness System** for AI risk. This dashboard tracks real-world AI incidents, correlates them with growing AI capabilities, and forecasts emerging "hotspots" to inform AI safety and governance.
 >
 > *Project for the Apart Research AI Forecasting Hackathon 2025.*
@@ -77,8 +79,30 @@ The notebooks in this folder document the step-by-step process of transforming r
 
 ---
 
-## 💡 Future Work
 
-*   **Formal Validation:** Implement a script to formally validate the LLM classifier's accuracy against our "gold standard" set.
-*   **Advanced Forecasting:** Explore more sophisticated time-series models (e.g., ARIMA) to capture more complex, non-linear trends.
-*   **Automated Micro-Analysis:** Integrate a second LLM to automate the thematic analysis of hotspots, turning the final "Recommendations" section into a dynamic feature.
+### 📄 In-Depth Analysis & Recommendations
+
+Beyond the dashboard, I conducted a deeper micro-analysis of the top risk hotspot ("Malicious Use & Security"). This involved identifying the specific use cases driving the trend and researching credible, expert-backed mitigation strategies.
+
+The full findings are available in our supplementary report:
+
+**➡️ [View the Full "AI Misuse, Harmful Incidents, and Mitigation Approaches" Report (PDF)](Mitigation_Approaches_Report.pdf)**
+
+
+---
+**Project Vision & Future Roadmap**
+
+The 'AI Risk Hotspots' dashboard is a robust MVP. The long-term vision is to expand it into a live, predictive, and prescriptive platform for global AI safety governance. The future roadmap is structured in three phases:
+
+**Phase 1: Deepening the Analysis**
+*   **Automated Micro-Analysis:** Integrate an LLM to automatically perform thematic analysis on hotspots in real-time.
+*   **Incident Severity Scoring:** Develop a model to classify incidents by severity, allowing the dashboard to track the *magnitude* of harm, not just the frequency.
+*   **Advanced Forecasting:** Implement ARIMA or Prophet models for more accurate, non-linear forecasting.
+
+**Phase 2: Expanding the Platform**
+*   **Real-Time Alerting System:** Create a subscription feature for policymakers to receive automated email alerts when a risk category's forecast exceeds a critical threshold.
+*   **Mitigation Database:** Build a dynamic database to track proposed mitigations and their real-world adoption and effectiveness.
+
+**Phase 3: The "North Star" Vision**
+*   **Public API:** Expose the processed, aggregated data via a public API to serve as a foundational tool for the AI safety research community.
+*   **Causal Inference Models:** Move beyond correlation by using advanced statistical models to investigate direct causal links between specific technological breakthroughs and subsequent incident spikes.
