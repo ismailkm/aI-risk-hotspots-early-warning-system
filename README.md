@@ -83,8 +83,17 @@ The notebooks in this folder document the step-by-step process of transforming r
 *   `/data/final_outputs.json`: The final processed data file that powers the dashboard.
 *   `Dockerfile` & `docker-compose.yml`: Configuration for the containerized environment.
 
+
 ---
 
+## ⚙️ Technology Stack
+
+*   **Data Analysis & Forecasting:** Python, Pandas, Scikit-learn
+*   **Dashboard:** Streamlit, Plotly
+*   **Environment:** Docker, Docker Compose
+*   **Data Pipeline:** Jupyter/Colab Notebooks
+
+---
 
 ### 📄 In-Depth Analysis & Recommendations
 
@@ -112,3 +121,11 @@ The 'AI Risk Hotspots' dashboard is a robust MVP. The long-term vision is to exp
 **Phase 3: The "North Star" Vision**
 *   **Public API:** Expose the processed, aggregated data via a public API to serve as a foundational tool for the AI safety research community.
 *   **Causal Inference Models:** Move beyond correlation by using advanced statistical models to investigate direct causal links between specific technological breakthroughs and subsequent incident spikes.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
