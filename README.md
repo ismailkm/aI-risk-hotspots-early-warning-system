@@ -22,6 +22,12 @@ Our interactive dashboard, built with Streamlit, provides a multi-layered view o
 
 ---
 
+## 📝 Methodological Note: Why Training Compute?
+
+For this project's core thesis, a clear, objective metric for the "Cause" of rising AI risk was needed. I deliberately chose **Training Compute (in FLOPs)**. It is the most direct and fundamental measure of the investment and power being poured into the AI development ecosystem, acting as the "fuel" that enables more powerful and capable models. A higher compute budget unlocks entirely new capabilities, which in turn create new vectors for harm. By tracking this foundational input, this system tracks the very engine driving the rise of real-world AI incidents.
+
+---
+
 ## 🛠️ How to Run Locally
 
 This project is containerized using Docker for a simple, one-command setup.
