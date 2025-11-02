@@ -1,0 +1,3216 @@
+{
+    "risk_radar_data": [
+        {
+            "quarter_str": "1983Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "1992Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "1996Q2",
+            "harm_category": "Uncategorized",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "1998Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "1999Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2003Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2003Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2003Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2003Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2006Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2007Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2008Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2008Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2008Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2009Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2009Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2010Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2011Q2",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2011Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2011Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2012Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2012Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2013Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2013Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2013Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2013Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2013Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q3",
+            "harm_category": "Uncategorized",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2014Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2014Q4",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2015Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2015Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2015Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q4",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2015Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2016Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2016Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2016Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2016Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2016Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2016Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2016Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2017Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2017Q4",
+            "harm_category": "Uncategorized",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2018Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2018Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2018Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2018Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2018Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2018Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2018Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q1",
+            "harm_category": "Uncategorized",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2019Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2019Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2019Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2019Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 9
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 8
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2020Q4",
+            "harm_category": "Uncategorized",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2021Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2021Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 12
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2022Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 8
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 14
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2022Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 11
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 31
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2023Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 25
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 10
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 33
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2023Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 35
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 40
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 13
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2024Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 8
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 44
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 8
+        },
+        {
+            "quarter_str": "2024Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 53
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 5
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2024Q4",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 3
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Data Quality & Integrity",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Fairness, Bias & Discrimination",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 85
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 7
+        },
+        {
+            "quarter_str": "2025Q1",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 6
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 65
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 11
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "System & Task Mismatch",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2025Q2",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 13
+        },
+        {
+            "quarter_str": "2025Q3",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 4
+        },
+        {
+            "quarter_str": "2025Q3",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 40
+        },
+        {
+            "quarter_str": "2025Q3",
+            "harm_category": "Privacy & Data Protection",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2025Q3",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2025Q3",
+            "harm_category": "Transparency & Explainability",
+            "incident_count": 10
+        },
+        {
+            "quarter_str": "2025Q4",
+            "harm_category": "Human-Computer Interaction & Autonomy",
+            "incident_count": 2
+        },
+        {
+            "quarter_str": "2025Q4",
+            "harm_category": "Malicious Use & Security",
+            "incident_count": 10
+        },
+        {
+            "quarter_str": "2025Q4",
+            "harm_category": "Safety, Robustness & Reliability",
+            "incident_count": 1
+        },
+        {
+            "quarter_str": "2025Q4",
+            "harm_category": "Societal & Economic Impact",
+            "incident_count": 1
+        }
+    ],
+    "cause_effect_data": [
+        {
+            "year": 1983,
+            "incident_count": 1,
+            "total_compute_flops": 324000000.0
+        },
+        {
+            "year": 1992,
+            "incident_count": 1,
+            "total_compute_flops": 18232211082832.703
+        },
+        {
+            "year": 1996,
+            "incident_count": 1,
+            "total_compute_flops": 907593216000.0
+        },
+        {
+            "year": 1998,
+            "incident_count": 1,
+            "total_compute_flops": 2810937600000.0
+        },
+        {
+            "year": 1999,
+            "incident_count": 1,
+            "total_compute_flops": 11877600000000.0
+        },
+        {
+            "year": 2003,
+            "incident_count": 4,
+            "total_compute_flops": 1798945460000000.0
+        },
+        {
+            "year": 2006,
+            "incident_count": 1,
+            "total_compute_flops": 745200000000000.0
+        },
+        {
+            "year": 2007,
+            "incident_count": 1,
+            "total_compute_flops": 2.22248448e+18
+        },
+        {
+            "year": 2008,
+            "incident_count": 3,
+            "total_compute_flops": 1614600000.0
+        },
+        {
+            "year": 2009,
+            "incident_count": 2,
+            "total_compute_flops": 1.09498463008e+16
+        },
+        {
+            "year": 2010,
+            "incident_count": 1,
+            "total_compute_flops": 5.8067401355968e+16
+        },
+        {
+            "year": 2011,
+            "incident_count": 3,
+            "total_compute_flops": 1.415191214256e+17
+        },
+        {
+            "year": 2012,
+            "incident_count": 8,
+            "total_compute_flops": 2.1595048708e+18
+        },
+        {
+            "year": 2013,
+            "incident_count": 6,
+            "total_compute_flops": 4.91689792384e+18
+        },
+        {
+            "year": 2014,
+            "incident_count": 13,
+            "total_compute_flops": 3.841102273608001e+20
+        },
+        {
+            "year": 2015,
+            "incident_count": 24,
+            "total_compute_flops": 5.34469152007e+20
+        },
+        {
+            "year": 2016,
+            "incident_count": 41,
+            "total_compute_flops": 1.1273291860281e+22
+        },
+        {
+            "year": 2017,
+            "incident_count": 50,
+            "total_compute_flops": 3.274358388409428e+21
+        },
+        {
+            "year": 2018,
+            "incident_count": 45,
+            "total_compute_flops": 1.0032492841034e+22
+        },
+        {
+            "year": 2019,
+            "incident_count": 43,
+            "total_compute_flops": 3.38653285879484e+23
+        },
+        {
+            "year": 2020,
+            "incident_count": 88,
+            "total_compute_flops": 6.31774261164e+23
+        },
+        {
+            "year": 2021,
+            "incident_count": 77,
+            "total_compute_flops": 6.827812384034903e+24
+        },
+        {
+            "year": 2022,
+            "incident_count": 104,
+            "total_compute_flops": 1.8674540715965512e+25
+        },
+        {
+            "year": 2023,
+            "incident_count": 164,
+            "total_compute_flops": 1.1319013667144e+26
+        },
+        {
+            "year": 2024,
+            "incident_count": 276,
+            "total_compute_flops": 2.99169666415224e+26
+        },
+        {
+            "year": 2025,
+            "incident_count": 279,
+            "total_compute_flops": 1.2916655075508912e+27
+        }
+    ],
+    "all_forecasts_data": [
+        {
+            "category_name": "Malicious Use & Security",
+            "data": [
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 14,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 31,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 25,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 10,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 33,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 35,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 40,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 44,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 53,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 85,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 65,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q3",
+                    "harm_category": "Malicious Use & Security",
+                    "incident_count": 40,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 68,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 73,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 77,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 82,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 86,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 90,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 95,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 99,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 104,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 108,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 113,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 117,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Transparency & Explainability",
+            "data": [
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 7,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 6,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 13,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q3",
+                    "harm_category": "Transparency & Explainability",
+                    "incident_count": 10,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 9,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 10,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 10,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 11,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 12,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 12,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 13,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 14,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 14,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 15,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 15,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 16,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Societal & Economic Impact",
+            "data": [
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 7,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 13,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 8,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 7,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 11,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q3",
+                    "harm_category": "Societal & Economic Impact",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 8,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 8,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 8,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 9,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 9,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 9,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 9,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 10,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 10,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 10,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 11,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 11,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Safety, Robustness & Reliability",
+            "data": [
+                {
+                    "quarter_str": "2022Q1",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q2",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 6,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Safety, Robustness & Reliability",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Privacy & Data Protection",
+            "data": [
+                {
+                    "quarter_str": "2022Q1",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q2",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q3",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q3",
+                    "harm_category": "Privacy & Data Protection",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Uncategorized",
+            "data": [
+                {
+                    "quarter_str": "1996Q2",
+                    "harm_category": "Uncategorized",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2014Q3",
+                    "harm_category": "Uncategorized",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2017Q4",
+                    "harm_category": "Uncategorized",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2019Q1",
+                    "harm_category": "Uncategorized",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2020Q4",
+                    "harm_category": "Uncategorized",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Fairness, Bias & Discrimination",
+            "data": [
+                {
+                    "quarter_str": "2022Q1",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q2",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q3",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Fairness, Bias & Discrimination",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "System & Task Mismatch",
+            "data": [
+                {
+                    "quarter_str": "2021Q1",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q2",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q3",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q4",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q2",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q3",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "System & Task Mismatch",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 2,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Data Quality & Integrity",
+            "data": [
+                {
+                    "quarter_str": "2017Q3",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2018Q1",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2018Q2",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2020Q1",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2020Q3",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2020Q4",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q1",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q3",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2021Q4",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2022Q1",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Data Quality & Integrity",
+                    "incident_count": 1,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 1,
+                    "type": "Forecast"
+                }
+            ]
+        },
+        {
+            "category_name": "Human-Computer Interaction & Autonomy",
+            "data": [
+                {
+                    "quarter_str": "2022Q4",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 7,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q1",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 11,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q2",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q3",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2023Q4",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 2,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q1",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 6,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q2",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 5,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q3",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 8,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2024Q4",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 3,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q1",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 6,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q2",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 6,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q3",
+                    "harm_category": "Human-Computer Interaction & Autonomy",
+                    "incident_count": 4,
+                    "type": "Historical"
+                },
+                {
+                    "quarter_str": "2025Q4",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q1",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q2",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q3",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2026Q4",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q1",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q2",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q3",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2027Q4",
+                    "harm_category": NaN,
+                    "incident_count": 4,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q1",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q2",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                },
+                {
+                    "quarter_str": "2028Q3",
+                    "harm_category": NaN,
+                    "incident_count": 3,
+                    "type": "Forecast"
+                }
+            ]
+        }
+    ]
+}
